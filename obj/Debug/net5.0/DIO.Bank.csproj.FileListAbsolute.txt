@@ -1,0 +1,16 @@
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csprojAssemblyReference.cache
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\Users\Saraiva\source\repos\DIO.Bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
